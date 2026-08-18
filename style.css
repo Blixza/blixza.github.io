@@ -1,0 +1,119 @@
+:root {
+    --bg-color: #0f172a;
+    --card-bg: #1e293b;
+    --text-color: #f8fafc;
+    --text-muted: #94a3b8;
+    --border-color: #334155;
+    --accent-color: #38bdf8;
+    --star-color: #fbbf24;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.5;
+    padding: 2rem 1rem;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.25rem;
+    color: var(--text-color);
+    margin-bottom: 0.5rem;
+}
+
+header p {
+    color: var(--text-muted);
+}
+
+.table-container {
+    overflow-x: auto;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    background-color: var(--card-bg);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 0.95rem;
+}
+
+th,
+td {
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--border-color);
+    vertical-align: top;
+}
+
+th {
+    background-color: #111827;
+    color: var(--accent-color);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+tr:hover {
+    background-color: rgba(255, 255, 255, 0.02);
+}
+
+.rating {
+    font-weight: bold;
+    color: var(--star-color);
+    white-space: nowrap;
+}
+
+.saved-badge {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    background-color: #065f46;
+    color: #34d399;
+}
+
+.saved-badge.no {
+    background-color: #374151;
+    color: #9ca3af;
+}
+
+ul.song-list {
+    list-style: none;
+    padding: 0;
+}
+
+ul.song-list li {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+}
+
+.status-message {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-muted);
+    font-style: italic;
+}

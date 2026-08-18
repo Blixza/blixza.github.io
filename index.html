@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Albums library</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Album Library</h1>
+            <p>A collection of listened albums and ratings</p>
+        </header>
+
+        <main>
+            <div class="table-container">
+                <table id="album-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Artist(s)</th>
+                            <th>Album</th>
+                            <th>Rating</th>
+                            <th>Saved</th>
+                            <th>Best Songs</th>
+                            <th>Worst Songs</th>
+                            <th>Thoughts</th>
+                        </tr>
+                    </thead>
+                    <tbody id="album-body">
+
+                    </tbody>
+                </table>
+            </div>
+            <div id="status-message" class="status-message">Loading records...</div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
