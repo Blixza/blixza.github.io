@@ -57,7 +57,7 @@ func main() {
 		Artist:     artist,
 		Album:      album,
 		Rating:     rating,
-		Saved:      saved,
+		SavedTracks:      saved,
 		BestSongs:  bestSongs,
 		WorstSongs: worstSongs,
 		Thoughts:   thoughts,

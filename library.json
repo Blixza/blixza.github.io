@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2026-08-18",
+        "artist": [
+            "OsamaSon"
+        ],
+        "album": "psykotic",
+        "rating": "9/10",
+        "saved_tracks": "42/109",
+        "best_songs": [
+            "idk"
+        ],
+        "worst_songs": [
+            ""
+        ],
+        "thoughts": "good"
+    },
+    {
+        "date": "2026-08-18",
+        "artist": [
+            "ok"
+        ],
+        "album": "",
+        "rating": "",
+        "saved": "",
+        "best_songs": null,
+        "worst_songs": null,
+        "thoughts": ""
+    },
+    {
+        "date": "2026-08-18",
+        "artist": [
+            "me",
+            "alex"
+        ],
+        "album": "123",
+        "rating": "8/10",
+        "saved_tracks": "42/10",
+        "best_songs": [
+            "me",
+            "and",
+            "alex"
+        ],
+        "worst_songs": [
+            "alex",
+            "and"
+        ],
+        "thoughts": "idk"
+    }
+]

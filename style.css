@@ -86,19 +86,10 @@ tr:hover {
     white-space: nowrap;
 }
 
-.saved-badge {
-    display: inline-block;
-    padding: 0.15rem 0.5rem;
-    border-radius: 4px;
-    font-size: 0.8rem;
-    font-weight: 600;
-    background-color: #065f46;
-    color: #34d399;
-}
-
-.saved-badge.no {
-    background-color: #374151;
-    color: #9ca3af;
+td:nth-child(5) {
+    font-family: monospace;
+    font-size: 0.9rem;
+    color: var(--accent-color);
 }
 
 ul.song-list {

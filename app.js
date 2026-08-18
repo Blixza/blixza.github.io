@@ -42,17 +42,14 @@ function createTableRow(record) {
         return `<ul class="song-list">${songs.map(song => `<li>• ${escapeHtml(song)}</li>`).join("")}</ul>`;
     };
 
-    const isSaved = String(record.saved).toLowerCase() === "true" || String(record.saved).toLowerCase() === "yes";
-    const savedBadge = isSaved
-        ? `<span class="saved-badge">Yes</span>`
-        : `<span class="saved-badge no">No</span>`;
+    const savedValue = record.saved_tracks || record.saved || "—";
 
     tr.innerHTML = `
     <td>${escapeHtml(record.date || "—")}</td>
     <td><strong>${escapeHtml(artistsStr)}</strong></td>
     <td>${escapeHtml(record.album || "—")}</td>
     <td class="rating">${escapeHtml(record.rating || "—")}</td>
-    <td>${savedBadge}</td>
+    <td>${escapeHtml(savedValue)}</td>
     <td>${formatSongList(record.best_songs)}</td>
     <td>${formatSongList(record.worst_songs)}</td>
     <td>${escapeHtml(record.thoughts || "—")}</td>
