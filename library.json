@@ -1,200 +1,239 @@
 [
-    {
-        "date": "2026-08-??",
-        "artist": [
-            "Trippie Redd"
-        ],
-        "album": "A Love Letter To You 4",
-        "rating": "5-6/10",
-        "saved_tracks": "12/21",
-        "best_songs": [
-            "The Grinch",
-            "The Jungle Book"
-        ],
-        "worst_songs": [],
-        "thoughts": "Неплохо. Сначала слабенько но под конец пошли хорошие треки"
-    },
-    {
-        "date": "2026-07-??",
-        "artist": [
-            "MadeInTYO"
-        ],
-        "album": "You Are Forgiven (Deluxe Edition)",
-        "rating": "8/10",
-        "saved_tracks": "16/17",
-        "best_songs": [
-            "Savage",
-            "Uber Everywhere (feat. Travis Scott)",
-            "Need Dat Pack"
-        ],
-        "worst_songs": [],
-        "thoughts": "Просто классный релиз"
-    },
-    {
-        "date": "2026-07-??",
-        "artist": [
-            "Аквариум"
-        ],
-        "album": "Дети декабря",
-        "rating": "?/10",
-        "saved_tracks": "9/10",
-        "best_songs": [
-            "Танцы на грани весны",
-            "212-85-06",
-            "Деревня"
-        ],
-        "worst_songs": [],
-        "thoughts": "Сложно оценить. Но музыка приятная, текста хоть и бредовые но от этого даже интереснее"
-    },
-    {
-        "date": "2026-07-06",
-        "artist": [
-            "my bloody valentine"
-        ],
-        "album": "loveless",
-        "rating": "10/10",
-        "saved_tracks": "10/11",
-        "best_songs": [
-            "only shallow",
-            "when you sleep",
-            "i only said",
-            "blown a wish"
-        ],
-        "worst_songs": [],
-        "thoughts": "Легендарный альбом. Абсолютно заслуженно ставлю 10/10"
-    },
-    {
-        "date": "2026-07-06",
-        "artist": [
-            "my bloody valentine"
-        ],
-        "album": "m b v",
-        "rating": "9/10",
-        "saved_tracks": "9/10",
-        "best_songs": [
-            "she found now",
-            "who sees you",
-            "new you"
-        ],
-        "worst_songs": [],
-        "thoughts": "Немного слабее чем loveless, но всё равно замечательный альбом"
-    },
-    {
-        "date": "2026-06-30",
-        "artist": [
-            "Trippie Redd"
-        ],
-        "album": "A Love Letter To You 3",
-        "rating": "6-7/10",
-        "saved_tracks": "12/16",
-        "best_songs": [
-            "Topanga",
-            "1400 / 999 Freestyle"
-        ],
-        "worst_songs": [
-            "Love Scars 3"
-        ],
-        "thoughts": "Лучше чем 4 часть"
-    },
-    {
-        "date": "2026-07-04",
-        "artist": [
-            "Jeru The Damaja"
-        ],
-        "album": "Wrath Of The Math",
-        "rating": "7-8/10",
-        "saved_tracks": "?/10",
-        "best_songs": [
-            "Whatever",
-            "Scientifical Madness",
-            "Ya Playin' Yaself"
-        ],
-        "worst_songs": [],
-        "thoughts": "Решил послушать что-нибудь старое. Этот альбом 1996 года. Мне он понравился, стоит внимания"
-    },
-    {
-        "date": "2026-07-06",
-        "artist": [
-            "Dr. Dre"
-        ],
-        "album": "The Chronic",
-        "rating": "8-9/10",
-        "saved_tracks": "?/10",
-        "best_songs": [
-            "Let Me Ride",
-            "Deeez Nuuuts"
-        ],
-        "worst_songs": [],
-        "thoughts": "Хороший альбом. Заслуживает внимания, особенно если заходит этот стиль"
-    },
-    {
-        "date": "2026-07-07",
-        "artist": [
-            "Capital Cities"
-        ],
-        "album": "In A Tidal Wave of Mystery (Deluxe Edition)",
-        "rating": "7-8/10",
-        "saved_tracks": "?/10",
-        "best_songs": [
-            "Safe and Sound",
-            "Kangaroo Court",
-            "I Sold My Bed, But Not My Stereo",
-            "Farrah Fawcett Hair (feat. Andre 3000)"
-        ],
-        "worst_songs": [],
-        "thoughts": "Очень хороший, добрый, танцевальный альбом. Точно заслуживает внимания"
-    },
-    {
-        "date": "2026-07-14",
-        "artist": [
-            "Trippie Redd"
-        ],
-        "album": "NDA",
-        "rating": "7-8/10",
-        "saved_tracks": "?/10",
-        "best_songs": [
-            "Paperbag Boy",
-            "Fine Shit",
-            "MTV",
-            "Break It In"
-        ],
-        "worst_songs": [
-            "Pourin 4s"
-        ],
-        "thoughts": "Хороший альбом. Я его пассивно ждал всего пару месяцев, так что не могу сказать заслуживает ли он того. Есть пару бенгеров. Ski Mask заруинил Break It In, но всё равно сохранил, хотя слушаю V2 версию, на которой его куплета нет"
-    },
-    {
-        "date": "2026-07-??",
-        "artist": [
-            ""
-        ],
-        "album": "",
-        "rating": "?/10",
-        "saved_tracks": "?/10",
-        "best_songs": [
-            ""
-        ],
-        "worst_songs": [],
-        "thoughts": ""
-    },
-    {
-        "date": "2026-09-06",
-        "artist": [
-            "Pradabagshawty"
-        ],
-        "album": "B What You B",
-        "rating": "7/10",
-        "saved_tracks": "9/9",
-        "best_songs": [
-            "Brew Love",
-            "Outta State",
-            "Cash Cow",
-            "P Wit Ha",
-            "Uu Look Chinese"
-        ],
-        "worst_songs": [
-            ""
-        ],
-        "thoughts": "Мне очень нравится его флоу и голос. Хороший альбом. Хотя это скорее микстейп всё-таки. Претензий нет, твёрдые 7/10"
-    }
+ {
+  "date": "2026-08-??",
+  "artist": [
+   "Trippie Redd"
+  ],
+  "album": "A Love Letter To You 4",
+  "rating": "5-6/10",
+  "saved_tracks": "12/21",
+  "best_songs": [
+   "The Grinch",
+   "The Jungle Book"
+  ],
+  "worst_songs": [],
+  "thoughts": "Неплохо. Сначала слабенько но под конец пошли хорошие треки"
+ },
+ {
+  "date": "2026-07-??",
+  "artist": [
+   "MadeInTYO"
+  ],
+  "album": "You Are Forgiven (Deluxe Edition)",
+  "rating": "8/10",
+  "saved_tracks": "16/17",
+  "best_songs": [
+   "Savage",
+   "Uber Everywhere (feat. Travis Scott)",
+   "Need Dat Pack"
+  ],
+  "worst_songs": [],
+  "thoughts": "Просто классный релиз"
+ },
+ {
+  "date": "2026-07-??",
+  "artist": [
+   "Аквариум"
+  ],
+  "album": "Дети декабря",
+  "rating": "?/10",
+  "saved_tracks": "9/10",
+  "best_songs": [
+   "Танцы на грани весны",
+   "212-85-06",
+   "Деревня"
+  ],
+  "worst_songs": [],
+  "thoughts": "Сложно оценить. Но музыка приятная, текста хоть и бредовые но от этого даже интереснее"
+ },
+ {
+  "date": "2026-07-06",
+  "artist": [
+   "my bloody valentine"
+  ],
+  "album": "loveless",
+  "rating": "10/10",
+  "saved_tracks": "10/11",
+  "best_songs": [
+   "only shallow",
+   "when you sleep",
+   "i only said",
+   "blown a wish"
+  ],
+  "worst_songs": [],
+  "thoughts": "Легендарный альбом. Абсолютно заслуженно ставлю 10/10"
+ },
+ {
+  "date": "2026-07-06",
+  "artist": [
+   "my bloody valentine"
+  ],
+  "album": "m b v",
+  "rating": "9/10",
+  "saved_tracks": "9/10",
+  "best_songs": [
+   "she found now",
+   "who sees you",
+   "new you"
+  ],
+  "worst_songs": [],
+  "thoughts": "Немного слабее чем loveless, но всё равно замечательный альбом"
+ },
+ {
+  "date": "2026-06-30",
+  "artist": [
+   "Trippie Redd"
+  ],
+  "album": "A Love Letter To You 3",
+  "rating": "6-7/10",
+  "saved_tracks": "12/16",
+  "best_songs": [
+   "Topanga",
+   "1400 / 999 Freestyle"
+  ],
+  "worst_songs": [
+   "Love Scars 3"
+  ],
+  "thoughts": "Лучше чем 4 часть"
+ },
+ {
+  "date": "2026-07-04",
+  "artist": [
+   "Jeru The Damaja"
+  ],
+  "album": "Wrath Of The Math",
+  "rating": "7-8/10",
+  "saved_tracks": "?/10",
+  "best_songs": [
+   "Whatever",
+   "Scientifical Madness",
+   "Ya Playin' Yaself"
+  ],
+  "worst_songs": [],
+  "thoughts": "Решил послушать что-нибудь старое. Этот альбом 1996 года. Мне он понравился, стоит внимания"
+ },
+ {
+  "date": "2026-07-06",
+  "artist": [
+   "Dr. Dre"
+  ],
+  "album": "The Chronic",
+  "rating": "8-9/10",
+  "saved_tracks": "?/10",
+  "best_songs": [
+   "Let Me Ride",
+   "Deeez Nuuuts"
+  ],
+  "worst_songs": [],
+  "thoughts": "Хороший альбом. Заслуживает внимания, особенно если заходит этот стиль"
+ },
+ {
+  "date": "2026-07-07",
+  "artist": [
+   "Capital Cities"
+  ],
+  "album": "In A Tidal Wave of Mystery (Deluxe Edition)",
+  "rating": "7-8/10",
+  "saved_tracks": "?/10",
+  "best_songs": [
+   "Safe and Sound",
+   "Kangaroo Court",
+   "I Sold My Bed, But Not My Stereo",
+   "Farrah Fawcett Hair (feat. Andre 3000)"
+  ],
+  "worst_songs": [],
+  "thoughts": "Очень хороший, добрый, танцевальный альбом. Точно заслуживает внимания"
+ },
+ {
+  "date": "2026-07-14",
+  "artist": [
+   "Trippie Redd"
+  ],
+  "album": "NDA",
+  "rating": "7-8/10",
+  "saved_tracks": "?/10",
+  "best_songs": [
+   "Paperbag Boy",
+   "Fine Shit",
+   "MTV",
+   "Break It In"
+  ],
+  "worst_songs": [
+   "Pourin 4s"
+  ],
+  "thoughts": "Хороший альбом. Я его пассивно ждал всего пару месяцев, так что не могу сказать заслуживает ли он того. Есть пару бенгеров. Ski Mask заруинил Break It In, но всё равно сохранил, хотя слушаю V2 версию, на которой его куплета нет"
+ },
+ {
+  "date": "2026-07-??",
+  "artist": [
+   ""
+  ],
+  "album": "",
+  "rating": "?/10",
+  "saved_tracks": "?/10",
+  "best_songs": [
+   ""
+  ],
+  "worst_songs": [],
+  "thoughts": ""
+ },
+ {
+  "date": "2026-09-06",
+  "artist": [
+   "Pradabagshawty"
+  ],
+  "album": "B What You B",
+  "rating": "7/10",
+  "saved_tracks": "9/9",
+  "best_songs": [
+   "Brew Love",
+   "Outta State",
+   "Cash Cow",
+   "P Wit Ha",
+   "Uu Look Chinese"
+  ],
+  "worst_songs": [
+   ""
+  ],
+  "thoughts": "Мне очень нравится его флоу и голос. Хороший альбом. Хотя это скорее микстейп всё-таки. Претензий нет, твёрдые 7/10"
+ },
+ {
+  "date": "2026-09-17",
+  "artist": [
+   "Gunna"
+  ],
+  "album": "Drip Season 3",
+  "rating": "7/10",
+  "saved_tracks": "11/14",
+  "best_songs": [
+   "Hulluva Price",
+   "Drippin'",
+   "Car Sick (feat. NAV \u0026 Metro Boomin)"
+  ],
+  "worst_songs": [
+   "Pedestrian"
+  ],
+  "thoughts": "Мой самый первый альбом Ганны. Первое впечатление очень положительное. Мне очень нравится его раслабленный флоу"
+ },
+ {
+  "date": "2026-09-17",
+  "artist": [
+   "Lil Baby",
+   "Gunna"
+  ],
+  "album": "Drip Harder",
+  "rating": "9.5/10",
+  "saved_tracks": "11/13",
+  "best_songs": [
+   "Business is Business",
+   "Belly",
+   "Deep End",
+   "I Am",
+   "My Jeans"
+  ],
+  "worst_songs": [
+   "Style Stealer"
+  ],
+  "thoughts": "Очень много раз слышал об этом альбоме. И вот когда ознакамливался с дискографией Ганны, пришло время послушать и этот альбом. Могу сказать, что понимаю почему он считается классикой. У лил бейби и ганны действительно есть особая химия. Мне очень понравился этот альбом, но не могу поставить ему 10/10. Чего-то мне не хватило, но он очень близок к такой высокой оценке"
+ }
 ]
